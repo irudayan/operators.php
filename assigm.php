@@ -6,7 +6,7 @@
 //assignment operators
 
 $a = 20;
-$a -= 40;
+$a =- 40;
 echo $a;
 echo '<br>';
 
