@@ -1,5 +1,14 @@
-<html>:
+<html>
+<head>
+<title>today date</title>
+<style>
+body
+{background-color:pink;}
+</style>
+</head>
 <body>
+<center>
+
 <?php
 
 $day = date('w'); 
@@ -35,6 +44,6 @@ echo "today saturday";
 ?>
 
 
-
+</center>
 </body>
 </html>
