@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<form>
+:<form>
 <input type="text" name="num1" placeholder="number1"/>
 <input type="text" name="num2" placeholder="number2"/>
 
@@ -20,7 +20,6 @@
 <button type="submit" name="good" value="submit">Calculate</button>
 </form>
 <p>The answer is:</p>
-
 <?php
 	if (isset($_GET['good']))
 {
